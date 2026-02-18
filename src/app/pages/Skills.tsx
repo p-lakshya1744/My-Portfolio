@@ -66,7 +66,7 @@ export default function Skills() {
         { name: 'NLP', level: 85, color: '#4db6ac' },
         { name: 'PyTorch', level: 85, color: '#ee4c2c' },
         { name: 'Computer Vision', level: 80, color: '#5c6bc0' },
-        { name: 'Deep Learning', level: 75, color: '#ab47bc' },
+        { name: 'Deep Learning', level: 65, color: '#ab47bc' },
       ],
     },
     {
@@ -92,14 +92,13 @@ export default function Skills() {
         { name: 'Redis', level: 80, color: '#dc382d' },
         { name: 'Firebase', level: 85, color: '#ffca28' },
         { name: 'Supabase', level: 85, color: '#ffca28' },
-        { name: 'Cassandra', level: 75, color: '#ffca28' },
       ],
     },
     {
       category: 'Cloud & DevOps',
       icon: Cloud,
       skills: [
-        { name: 'AWS/GCP', level: 85, color: '#ff9900' },
+        { name: 'AWS', level: 85, color: '#ff9900' },
         { name: 'Docker', level: 90, color: '#2496ed' },
         { name: 'Kubernetes', level: 75, color: '#326ce5' },
         { name: 'Git', level: 95, color: '#f05032' },
@@ -114,7 +113,7 @@ export default function Skills() {
         { name: 'Jupyter', level: 95, color: '#f37626' },
         { name: 'Postman', level: 95, color: '#ff6c37' },
         { name: 'Linux', level: 85, color: '#fcc624' },
-        { name: 'IoT', level: 90, color: '#00bcd4' },
+        { name: 'IoT', level: 60, color: '#00bcd4' },
       ],
     },
   ];
